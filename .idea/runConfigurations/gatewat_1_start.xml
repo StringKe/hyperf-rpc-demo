@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="gatewat-1-start" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/api-gateway-1/bin/hyperf.php" scriptParameters="start">
+    <CommandLine workingDirectory="$PROJECT_DIR$/api-gateway-1">
+      <PhpTestInterpreterSettings>
+        <option name="interpreterName" value="PHP" />
+      </PhpTestInterpreterSettings>
+    </CommandLine>
+    <method v="2" />
+  </configuration>
+</component>

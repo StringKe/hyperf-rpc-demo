@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpCSFixer">
+    <phpcsfixer_settings>
+      <PhpCSFixerConfiguration tool_path="$PROJECT_DIR$/api-gateway-1/vendor/bin/php-cs-fixer" />
+    </phpcsfixer_settings>
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/php-cs-fixer/diff" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/laminas/laminas-mime" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/laminas/laminas-stdlib" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/swoole/ide-helper" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/memory" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/database" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/engine" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/command" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/devtool" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/cache" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/ide-helper" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/testing" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/config" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/context" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/http-server" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/server" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/event" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/di" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/macroable" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/pool" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/dispatcher" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/model-listener" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/http-message" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/guzzle" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/db-connection" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/utils" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/contract" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/framework" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/process" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/logger" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/exception-handler" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/composer" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/rpc" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/load-balancer" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/json-rpc" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/hyperf/rpc-client" />
+      <path value="$PROJECT_DIR$/api-gateway-1/vendor/markrogoyski/math-php" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStan">
+    <PhpStan_settings>
+      <PhpStanConfiguration tool_path="$PROJECT_DIR$/api-gateway-1/vendor/bin/phpstan" />
+    </PhpStan_settings>
+  </component>
+</project>
